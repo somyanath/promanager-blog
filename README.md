@@ -1,3 +1,9 @@
+# ProManager Blog
+
+a project managing blog, where the user has the ability to Add/View their project details and View other users' project details. It also has a notification showing the latest timeline of new users and new projects being uploaded on the blog. The project details get saved to the Firestore, so the user can basically login anyhwere and have access to his project details and also view project details of other users. The App uses Firebase for Authentication. In the future I will be adding the functionality of editing the projects and user-verification using his/her email.
+
+TECH STACK: REACT - REDUX - FIREBASE & FIRESTORE
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
